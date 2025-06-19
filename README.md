@@ -43,7 +43,7 @@ The **IRCTC Real-Time Data Pipeline** is a cloud-native, real-time streaming arc
 
 ## 📊 Project Flowchart
 
-*Include a diagram here (optional) – e.g., a PNG or markdown ASCII diagram showing the data flow from Pub/Sub → Dataflow → BigQuery.*
+![IRCTC Data Pipeline Flowchart](./IRCTC%20Flowchart.png)
 
 ---
 
